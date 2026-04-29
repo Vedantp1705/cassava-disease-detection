@@ -1,34 +1,35 @@
-# cassava-disease-detection
+cassava-disease-detection
 AI-based cassava leaf disease detection using deep learning
-# 🌿 Cassava Disease Detection
 
-## 📌 Project Overview
+🌿 Cassava Disease Detection
+📌 Project Overview
 This project uses deep learning to detect cassava leaf diseases and provide treatment recommendations.
 
-## 🧠 Model
+🧠 Model
 - MobileNetV2 (Transfer Learning)
 - Trained on cassava leaf dataset
 
-## 🚀 Features
+🚀 Features
 - Image upload
 - Disease prediction
 - Confidence score
 - Treatment suggestions
 
-## 🖥️ How to Run
+🖥️ How to Run
 
-### Install dependencies
+Install dependencies
 pip install streamlit tensorflow opencv-python pillow
 
-### Run app
+Run app
 streamlit run app.py
 
-## 📊 Results
+📊 Results
 - Training Accuracy: XX%
 - Validation Accuracy: XX%
 
-## 🎯 Use Case
+🎯 Use Case
 Helps farmers detect diseases early and take action.
 
-## 👨‍💻 Team
-Your Team Name
+👨‍💻 Team DataSpeaks
+
+<img width="1919" height="977" alt="Screenshot 2026-04-29 145528" src="https://github.com/user-attachments/assets/3b4b2593-0453-4c4d-a737-47237fcf8f6d" />
