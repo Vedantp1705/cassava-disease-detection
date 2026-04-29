@@ -1,8 +1,9 @@
-cassava-disease-detection
-AI-based cassava leaf disease detection using deep learning
+#cassava-disease-detection
+#AI-based cassava leaf disease detection using deep learning
 
-🌿 Cassava Disease Detection
-📌 Project Overview
+#🌿 Cassava Disease Detection
+##📌 Project Overview
+
 This project uses deep learning to detect cassava leaf diseases and provide treatment recommendations.
 
 🧠 Model
